@@ -117,11 +117,28 @@ Real-time user interaction through Gradio.
 
 Adaptive learning by updating QA datasets dynamically.
 
+#### Steps:
+
+1. Install required libraries
+
+2. Import libraries
+
+3. Login to Hugging Face
+
+4. Load Llama 2 model and tokenizer
+   
+5. Load or create QA dataset
+
+6. Initialize sentiment analysis pipeline
+
+7. Define main function to answer questions and adjust based on sentiment
+
+
 ## Getting Started
 
 1. Clone this repository:
 
-git clone <repository_url>
+  git clone <repository_url>
 
 2. Open the project in Google Colab and set the runtime to GPU.
 
@@ -136,6 +153,20 @@ Hugging Face Transformers
 Gradio
 
 Google Colab (with GPU)
+
+## Deliverables
+![image](https://github.com/user-attachments/assets/e2cf8ba0-c19a-4768-812f-398c6c9edca3)
+</br>
+
+![image](https://github.com/user-attachments/assets/bdb6a320-cf31-4d59-992b-4e3c6293288a)
+</br>
+
+![image](https://github.com/user-attachments/assets/81382509-ed9b-4e30-80bd-3e304bded9da)
+
+</br>
+
+![image](https://github.com/user-attachments/assets/e3fc8f49-0339-495f-94c6-84d8ad49e86f)
+
 
 ## Contributing
 
